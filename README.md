@@ -29,4 +29,4 @@ Similarly, we did for tectonic plates and greater than 4.5 magnitude data for th
 
 At last we have added the third map tile layer.
 
-![Map for Earthquakes, Tectonic plate, Major Eartkquakes]()
+![Map for Earthquakes, Tectonic plate, Major Eartkquakes](https://github.com/AditiOracle/Mapping_Earthquakes/blob/main/Earthquake_Challenge/Resources/Module%2013.png)
